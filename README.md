@@ -9,7 +9,7 @@ In the dart-list directory, type the following command:
 
 $ python3 googledart.py *website* *textfile*
 
-*website* : https://example.com
+*website* : https://example.com \n
 *textfile*: Files used by DART
 
 Then just wait and the information will be collected.
