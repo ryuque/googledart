@@ -7,10 +7,10 @@ This is the simplest GoogleDart program for automating research.
 # How to use
 In the dart-list directory, type the following command:
 
-$ python3 googledart.py <website> <textfile>
+$ python3 googledart.py *website* *textfile*
 
-<website> : https://example.com
-<textfile>: Files used by DART
+*website* : https://example.com
+*textfile*: Files used by DART
 
 Then just wait and the information will be collected.
 
